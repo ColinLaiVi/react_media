@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Forrest Abbott",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Refined Granite Towels",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Soft Shoes",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Tasty Plastic Bacon",
+      "id": 13
+    }
+  ],
+  "photos": []
+}
